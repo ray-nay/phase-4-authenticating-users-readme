@@ -226,6 +226,6 @@ Before you move on, make sure you can answer the following questions:
 
 1. In the login and authentication flow you learned in this lesson for Rails
    API/React applications, in what two places is authentication information
-   stored?
+   stored? in the database for the back end  and in state for the front end. 
 2. In the login and authentication flow you learned in this lesson, what
    sequence of events happens if the user refreshes the page?
